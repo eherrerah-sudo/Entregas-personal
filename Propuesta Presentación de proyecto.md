@@ -1,6 +1,6 @@
 <div align="center">
 
-![QGame](imagenes/01-titulo.svg)
+![QGame](Imagenes/01-titulo.svg)
 
 # QGame
 ### Tus juegos de siempre, con un nuevo reto!
@@ -17,7 +17,7 @@ QGame es una consola de videojuegos retro multijugador, pensada para **compartir
 
 Podras disfrutar de los clásicos de siempre, pero esta vez juegalos en compañía: contra un amigo en la misma pantalla o entre otras pantallas conectadas.
 
-![Descripción de QGame](imagenes/02-descripcion.svg)
+![Descripción de QGame](Imagenes/02-descripcion.svg)
 
 > **4 lados. hasta 8 jugadores. Diferentes juegos. Un espacio, ua sola consola.**
 
@@ -27,7 +27,7 @@ Podras disfrutar de los clásicos de siempre, pero esta vez juegalos en compañ�
 
 Cada estación tiene una pantalla a color de **64 × 64 píxeles**, con la estética clasica de píxel de los arcades clásicos. En total son **4 pantallas** independientes, Inicia las pantallas y los juegos que quieras, en el momento que qieras.
 
-![Pantallas de QGame](imagenes/03-pantallas.svg)
+![Pantallas de QGame](Imagenes/03-pantallas.svg)
 
 <!-- Tenems que reemplazar las imagenes de IA por capturas reales de los juegos en las pantallas del tipo que vamos a usar -->
 
@@ -44,7 +44,7 @@ Cada estación incluye:
 
 Así cada jugador elige cómo jugar a su maximo nivel.
 
-![Controles compatibles](imagenes/04-controles.svg)
+![Controles compatibles](Imagenes/04-controles.svg)
 
 ---
 
@@ -60,7 +60,7 @@ Así cada jugador elige cómo jugar a su maximo nivel.
 
 *Y muchos más en camino...*
 
-![Juegos de QGame](imagenes/05-juegos.svg)
+![Juegos de QGame](Imagenes/05-juegos.svg)
 
 <!-- Debemos agregar una captura por juego y confirmar cuáles quedan en modo multijugador -->
 
@@ -74,7 +74,7 @@ Un cubo, cuatro estciones, infinitas posibilidades:
 - **Dos en una pantalla:** comparte la emoción con un amigo en el mismo lado del cubo.
 - **Entre pantallas:** conecta las 4 pantallas y vive la experiencia multijugador en un mismo juego.
 
-![Modos de juego](imagenes/06-modos.svg)
+![Modos de juego](Imagenes/06-modos.svg)
 
 ---
 
